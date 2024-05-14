@@ -1,0 +1,106 @@
+EmpID,Name,Position,ContractType,PayMonth,BaseSalary,HoursWorked,OvertimeHours,OvertimeRate,GrossSalary,Deductions,NetSalary
+IT_001,Harry Potter,Software Engineer,Full Time,May 2024,6000,160,10,1.5,6900,800,6100
+IT_002,Hermione Granger,Software Engineer,Full Time,May 2024,6100,160,8,1.5,6660,800,5860
+IT_003,Ron Weasley,Software Engineer,Full Time,May 2024,6200,160,9,1.5,6780,800,5980
+MKT_004,Albus Dumbledore,Marketing Manager,Full Time,May 2024,6500,160,8,2,7180,850,6330
+MKT_005,Ginny Weasley,Marketing Manager,Full Time,May 2024,6600,160,9,2,7300,850,6450
+MKT_006,Severus Snape,Marketing Manager,Full Time,May 2024,6700,160,10,2,7420,850,6570
+ADM_007,Bellatrix Lestrange,Part-Time Receptionist,Part Time,May 2024,3000,80,0,0,3000,300,2700
+ADM_008,Draco Malfoy,Part-Time Receptionist,Part Time,May 2024,3100,80,0,0,3000,300,2700
+ADM_009,Luna Lovegood,Part-Time Receptionist,Part Time,May 2024,3200,80,1,0,3000,300,2700
+INT_010,Neville Longbottom,Intern,Casual,May 2024,2000,40,0,0,2000,200,1800
+INT_011,Hagrid,Intern,Casual,May 2024,2100,40,0,0,2000,200,1800
+INT_012,Minerva McGonagall,Intern,Casual,May 2024,2200,40,1,0,2000,200,1800
+DES_013,Sirius Black,Graphic Designer,Full Time,May 2024,5800,160,8,1.5,6670,800,5870
+DES_014,Remus Lupin,Graphic Designer,Full Time,May 2024,5900,160,9,1.5,6550,800,5750
+DES_015,Rubeus Hagrid,Graphic Designer,Full Time,May 2024,6000,160,10,1.5,6790,800,5990
+PROJ_016,James Potter,Project Manager,Full Time,May 2024,7000,160,12,2,7500,900,6600
+PROJ_017,Lily Evans,Project Manager,Full Time,May 2024,7100,160,13,2,7340,900,6440
+PROJ_018,Severus Snape,Project Manager,Full Time,May 2024,7200,160,14,2,7500,900,6600
+ACC_019,Alastor Moody,Accountant,Full Time,May 2024,6800,160,5,1.5,7140,850,6290
+ACC_020,Bellatrix Lestrange,Accountant,Full Time,May 2024,6900,160,6,1.5,7260,850,6410
+ACC_021,Draco Malfoy,Accountant,Full Time,May 2024,7000,160,7,1.5,7380,850,6530
+IT_001,Harry Potter,Software Engineer,Full Time,June 2024,6100,160,10,1.5,6900,800,6100
+IT_002,Hermione Granger,Software Engineer,Full Time,June 2024,6200,160,12,1.5,6660,800,5860
+IT_003,Ron Weasley,Software Engineer,Full Time,June 2024,6300,160,14,1.5,6780,800,5980
+MKT_004,Albus Dumbledore,Marketing Manager,Full Time,June 2024,6600,160,9,2,7180,850,6330
+MKT_005,Ginny Weasley,Marketing Manager,Full Time,June 2024,6700,160,11,2,7300,850,6450
+MKT_006,Severus Snape,Marketing Manager,Full Time,June 2024,6800,160,13,2,7420,850,6570
+ADM_007,Bellatrix Lestrange,Part-Time Receptionist,Part Time,June 2024,3100,80,0,0,3000,300,2700
+ADM_008,Draco Malfoy,Part-Time Receptionist,Part Time,June 2024,3200,80,0,0,3000,300,2700
+ADM_009,Luna Lovegood,Part-Time Receptionist,Part Time,June 2024,3300,80,1,0,3000,300,2700
+INT_010,Neville Longbottom,Intern,Casual,June 2024,2100,40,0,0,2000,200,1800
+INT_011,Hagrid,Intern,Casual,June 2024,2200,40,1,0,2000,200,1800
+INT_012,Minerva McGonagall,Intern,Casual,June 2024,2300,40,1,0,2000,200,1800
+DES_013,Sirius Black,Graphic Designer,Full Time,June 2024,5900,160,9,1.5,6670,800,5870
+DES_014,Remus Lupin,Graphic Designer,Full Time,June 2024,6000,160,11,1.5,6550,800,5750
+DES_015,Rubeus Hagrid,Graphic Designer,Full Time,June 2024,6100,160,13,1.5,6790,800,5990
+PROJ_016,James Potter,Project Manager,Full Time,June 2024,7100,160,14,2,7500,900,6600
+PROJ_017,Lily Evans,Project Manager,Full Time,June 2024,7200,160,16,2,7340,900,6440
+PROJ_018,Severus Snape,Project Manager,Full Time,June 2024,7300,160,18,2,7500,900,6600
+ACC_019,Alastor Moody,Accountant,Full Time,June 2024,6900,160,6,1.5,7140,850,6290
+ACC_020,Bellatrix Lestrange,Accountant,Full Time,June 2024,7000,160,8,1.5,7260,850,6410
+ACC_021,Draco Malfoy,Accountant,Full Time,June 2024,7100,160,10,1.5,7380,850,6530
+IT_001,Harry Potter,Software Engineer,Full Time,July 2024,6200,160,12,1.5,6900,800,6100
+IT_002,Hermione Granger,Software Engineer,Full Time,July 2024,6300,160,14,1.5,6900,800,6100
+IT_003,Ron Weasley,Software Engineer,Full Time,July 2024,6400,160,16,1.5,6660,800,5860
+MKT_004,Albus Dumbledore,Marketing Manager,Full Time,July 2024,6700,160,10,2,7180,850,6330
+MKT_005,Ginny Weasley,Marketing Manager,Full Time,July 2024,6800,160,12,2,7300,850,6450
+MKT_006,Severus Snape,Marketing Manager,Full Time,July 2024,6900,160,14,2,7420,850,6570
+ADM_007,Bellatrix Lestrange,Part-Time Receptionist,Part Time,July 2024,3200,80,1,0,3000,300,2700
+ADM_008,Draco Malfoy,Part-Time Receptionist,Part Time,July 2024,3300,80,1,0,3000,300,2700
+ADM_009,Luna Lovegood,Part-Time Receptionist,Part Time,July 2024,3400,80,2,0,3000,300,2700
+INT_010,Neville Longbottom,Intern,Casual,July 2024,2200,40,1,0,2000,200,1800
+INT_011,Hagrid,Intern,Casual,July 2024,2300,40,2,0,2000,200,1800
+INT_012,Minerva McGonagall,Intern,Casual,July 2024,2400,40,2,0,2000,200,1800
+DES_013,Sirius Black,Graphic Designer,Full Time,July 2024,6000,160,11,1.5,6670,800,5870
+DES_014,Remus Lupin,Graphic Designer,Full Time,July 2024,6100,160,13,1.5,6550,800,5750
+DES_015,Rubeus Hagrid,Graphic Designer,Full Time,July 2024,6200,160,15,1.5,6790,800,5990
+PROJ_016,James Potter,Project Manager,Full Time,July 2024,7200,160,16,2,7500,900,6600
+PROJ_017,Lily Evans,Project Manager,Full Time,July 2024,7300,160,18,2,7340,900,6440
+PROJ_018,Severus Snape,Project Manager,Full Time,July 2024,7400,160,20,2,7500,900,6600
+ACC_019,Alastor Moody,Accountant,Full Time,July 2024,7000,160,7,1.5,7140,850,6290
+ACC_020,Bellatrix Lestrange,Accountant,Full Time,July 2024,7100,160,9,1.5,7260,850,6410
+ACC_021,Draco Malfoy,Accountant,Full Time,July 2024,7200,160,11,1.5,7380,850,6530
+IT_001,Harry Potter,Software Engineer,Full Time,August 2024,6200,160,12,1.5,6900,800,6100
+IT_002,Hermione Granger,Software Engineer,Full Time,August 2024,6300,160,14,1.5,6900,800,6100
+IT_003,Ron Weasley,Software Engineer,Full Time,August 2024,6400,160,16,1.5,6660,800,5860
+MKT_004,Albus Dumbledore,Marketing Manager,Full Time,August 2024,6700,160,10,2,7180,850,6330
+MKT_005,Ginny Weasley,Marketing Manager,Full Time,August 2024,6800,160,12,2,7300,850,6450
+MKT_006,Severus Snape,Marketing Manager,Full Time,August 2024,6900,160,14,2,7420,850,6570
+ADM_007,Bellatrix Lestrange,Part-Time Receptionist,Part Time,August 2024,3200,80,1,0,3000,300,2700
+ADM_008,Draco Malfoy,Part-Time Receptionist,Part Time,August 2024,3300,80,1,0,3000,300,2700
+ADM_009,Luna Lovegood,Part-Time Receptionist,Part Time,August 2024,3400,80,2,0,3000,300,2700
+INT_010,Neville Longbottom,Intern,Casual,August 2024,2200,40,1,0,2000,200,1800
+INT_011,Hagrid,Intern,Casual,August 2024,2300,40,2,0,2000,200,1800
+INT_012,Minerva McGonagall,Intern Internship,Casual,August 2024,2400,40,2,0,2000,200,1800
+DES_013,Sirius Black,Graphic Designer,Full Time,August 2024,6000,160,11,1.5,6670,800,5870
+DES_014,Remus Lupin,Graphic Designer,Full Time,August 2024,6100,160,13,1.5,6550,800,5750
+DES_015,Rubeus Hagrid,Graphic Designer,Full Time,August 2024,6200,160,15,1.5,6790,800,5990
+PROJ_016,James Potter,Project Manager,Full Time,August 2024,7200,160,16,2,7500,900,6600
+PROJ_017,Lily Evans,Project Manager,Full Time,August 2024,7300,160,18,2,7340,900,6440
+PROJ_018,Severus Snape,Project Manager,Full Time,August 2024,7400,160,20,2,7500,900,6600
+ACC_019,Alastor Moody,Accountant,Full Time,August 2024,7000,160,7,1.5,7140,850,6290
+ACC_020,Bellatrix Lestrange,Accountant,Full Time,August 2024,7100,160,9,1.5,7260,850,6410
+ACC_021,Draco Malfoy,Accountant,Full Time,August 2024,7200,160,11,1.5,7380,850,6530
+IT_001,Harry Potter,Software Engineer,Full Time,September 2024,6200,160,12,1.5,6900,800,6100
+IT_002,Hermione Granger,Software Engineer,Full Time,September 2024,6300,160,14,1.5,6900,800,6100
+IT_003,Ron Weasley,Software Engineer,Full Time,September 2024,6400,160,16,1.5,6660,800,5860
+MKT_004,Albus Dumbledore,Marketing Manager,Full Time,September 2024,6700,160,10,2,7180,850,6330
+MKT_005,Ginny Weasley,Marketing Manager,Full Time,September 2024,6800,160,12,2,7300,850,6450
+MKT_006,Severus Snape,Marketing Manager,Full Time,September 2024,6900,160,14,2,7420,850,6570
+ADM_007,Bellatrix Lestrange,Part-Time Receptionist,Part Time,September 2024,3200,80,1,0,3000,300,2700
+ADM_008,Draco Malfoy,Part-Time Receptionist,Part Time,September 2024,3300,80,1,0,3000,300,2700
+ADM_009,Luna Lovegood,Part-Time Receptionist,Part Time,September 2024,3400,80,2,0,3000,300,2700
+INT_010,Neville Longbottom,Intern,Casual,September 2024,2200,40,1,0,2000,200,1800
+INT_011,Hagrid,Intern,Casual,September 2024,2300,40,2,0,2000,200,1800
+INT_012,Minerva McGonagall,Intern Internship,Casual,September 2024,2400,40,2,0,2000,200,1800
+DES_013,Sirius Black,Graphic Designer,Full Time,September 2024,6000,160,11,1.5,6670,800,5870
+DES_014,Remus Lupin,Graphic Designer,Full Time,September 2024,6100,160,13,1.5,6550,800,5750
+DES_015,Rubeus Hagrid,Graphic Designer,Full Time,September 2024,6200,160,15,1.5,6790,800,5990
+PROJ_016,James Potter,Project Manager,Full Time,September 2024,7200,160,16,2,7500,900,6600
+PROJ_017,Lily Evans,Project Manager,Full Time,September 2024,7300,160,18,2,7340,900,6440
+PROJ_018,Severus Snape,Project Manager,Full Time,September 2024,7400,160,20,2,7500,900,6600
+ACC_019,Alastor Moody,Accountant,Full Time,September 2024,7000,160,7,1.5,7140,850,6290
+ACC_020,Bellatrix Lestrange,Accountant,Full Time,September 2024,7100,160,9,1.5,7260,850,6410
+ACC_021,Draco Malfoy,Accountant,Full Time,September 2024,7200,160,11,1.5,7380,850,6530
